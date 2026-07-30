@@ -11,6 +11,8 @@
 🚀 Skilled in:
 • Java
 • Spring Boot
+• Python
+• Django
 • React.js
 • SQL & MySQL
 • HTML, CSS & JavaScript
