@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer (AI & ML) from India</h3>
 
 
-👋 Hi, I'm Aaryan Nandan
+
 
 🎓 Computer Science Engineering (AI & ML) Student
 
@@ -24,9 +24,9 @@
 
 🤝 Looking to collaborate on Java Full-Stack and Open Source projects.
 
-📫 Reach me:
-📧 your-email@example.com
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+📫 Reach me:- 8002118249
+📧 Email- aarya.nandan25@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/aaryan-nandan
 
 ⚡ Fun fact: I enjoy turning ideas into real-world applications through clean, efficient, and maintainable code.
 
